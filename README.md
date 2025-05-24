@@ -23,17 +23,6 @@ This project demonstrates how to perform **text detection from images** using Py
 
 ---
 
-▶️ Usage
-Place your target image in the project directory.
-
-Run the detection script:
-
-bash
-Copy
-Edit
-python detect_text.py --image your_image.jpg
-View the extracted text in the terminal.
-
 ## 📦 Installation
 
 1. **Clone the repository:**
