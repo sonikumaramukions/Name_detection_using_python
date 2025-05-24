@@ -33,17 +33,6 @@ This project demonstrates how to perform **text detection from images** using Py
 
 ---
 
-## 📦 Installation
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/sonikumaramukions/Name_detection_using_python.git
-   cd Name_detection_using_python
-
-
----
-
 ### ✅ What To Do Now
 1. Open a file named `README.md` in your project folder.
 2. Paste the entire content above.
