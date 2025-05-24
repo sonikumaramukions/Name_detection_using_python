@@ -13,14 +13,15 @@ This project demonstrates how to perform **text detection from images** using Py
 
 ---
 
-## 📷 Example
+## 🛠️ Technologies Used
 
-Original Image:
-![example](example_image.jpg)
+- Python 3.x
+- [OpenCV](https://opencv.org/)
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+- [Pytesseract](https://pypi.org/project/pytesseract/)
+- NumPy
 
-Detected Text Output:
-
-
+  
 ---
 
 ## 🛠️ Technologies Used
@@ -30,6 +31,16 @@ Detected Text Output:
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - [Pytesseract](https://pypi.org/project/pytesseract/)
 - NumPy
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/sonikumaramukions/Name_detection_using_python.git
+   cd Name_detection_using_python
 
 ---
 
