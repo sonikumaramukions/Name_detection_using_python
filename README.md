@@ -21,18 +21,18 @@ This project demonstrates how to perform **text detection from images** using Py
 - [Pytesseract](https://pypi.org/project/pytesseract/)
 - NumPy
 
-  
 ---
 
-## 🛠️ Technologies Used
+▶️ Usage
+Place your target image in the project directory.
 
-- Python 3.x
-- [OpenCV](https://opencv.org/)
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
-- [Pytesseract](https://pypi.org/project/pytesseract/)
-- NumPy
+Run the detection script:
 
----
+bash
+Copy
+Edit
+python detect_text.py --image your_image.jpg
+View the extracted text in the terminal.
 
 ## 📦 Installation
 
